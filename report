@@ -1,0 +1,10 @@
+We had to create java server, java client, c server and c client. The java client can receive files from both the servers. Same true for c client.
+In addition I have implemented a md5 checksum to ensure that correct data is being sent.
+ 
+
+I have implemented test case of client server communication which checks that correct file is being transferred.
+ 
+
+Github link:
+https://github.com/huzaifasabir/lab3.git
+
